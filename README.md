@@ -1,5 +1,5 @@
-# usersBack!!
-
+# usersBack
+to run the server please do: 
 ## Project setup
 ```
 npm install
@@ -8,5 +8,4 @@ npm install
 ### Start server
 ```
 npm start
-```# users_backend
-# users_backend
+```
