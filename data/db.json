@@ -1,0 +1,414 @@
+{
+  "party": [
+    {
+      "_id": 1,
+      "name": "Pool Party!",
+      "desc": "The festival was always a place of unrestrained joy. The costumes lit up the summer's day, a riot of colour to rival any gardener's paradise. Music filled the air, festive beats lifted the spirits and made the people want to move, jump and sing. It was a time to celebrate being alive, celebrate the wonders of creation and be one with the community. The air tasted so heavenly with the chefs alongside the parade, every delicious thing ready to be shared with friends.",
+      "imgUrl": "http://res.cloudinary.com/partytime/image/upload/v1595073524/partyImgs/tbu3pwajhnhq3ycleknr.jpg",
+      "fee": "0",
+      "likes": 10,
+      "startDate": "2020-07-17T22:00:00.000+03:00",
+      "endDate": "2020-07-18T14:00:00.000+03:00",
+      "durationHours": 12,
+      "createdAt": 1541652422,
+      "location": {
+        "name": "Baga, Club Havanna",
+        "lat": 31.771959,
+        "lng": 35.217018
+      },
+      "extraData": {
+        "musicTypes": [
+          "Trance",
+          "Music",
+          "Techno",
+          "Funk",
+          "Metal"
+        ],
+        "partyTypes": [
+          "Karaoke",
+          "Rave",
+          "Sing",
+          "Workshop"
+        ],
+        "createdBy": {
+          "_id": "u101",
+          "fullName": "Orly Amdadi",
+          "imgUrl": "http://some-img"
+        },
+        "members": [
+          {
+            "_id": "u101",
+            "fullName": "Orly Amdadi",
+            "imgUrl": "http://some-img"
+          },
+          {
+            "_id": "u101",
+            "fullName": "Orly Amdadi",
+            "imgUrl": "http://some-img"
+          }
+        ],
+        "reviews": []
+      }
+    },
+    {
+      "name": "Trance Party!",
+      "desc": "The best party ever",
+      "imgUrl": "http://res.cloudinary.com/partytime/image/upload/v1594991769/partyImgs/rjn0utqbcsipkk4dwvai.jpg",
+      "fee": "0",
+      "likes": 7,
+      "startDate": "2020-07-17T22:00:00.000+03:00",
+      "endDate": "2020-07-18T14:00:00.000+03:00",
+      "durationHours": 12,
+      "createdAt": 1541652422,
+      "location": {
+        "name": "Israel, Hod Hasharon",
+        "lat": 32.55,
+        "lng": 32.77
+      },
+      "extraData": {
+        "musicTypes": [
+          "Trance",
+          "Music",
+          "Techno"
+        ],
+        "partyTypes": [
+          "Karaoke",
+          "Rave",
+          "Sing",
+          "Workshop"
+        ],
+        "createdBy": {
+          "_id": "u101",
+          "fullName": "Orly Amdadi",
+          "imgUrl": "http://some-img"
+        },
+        "members": [
+          {
+            "_id": "u101",
+            "fullName": "Orly Amdadi",
+            "imgUrl": "http://some-img"
+          },
+          {
+            "_id": "u101",
+            "fullName": "Orly Amdadi",
+            "imgUrl": "http://some-img"
+          }
+        ],
+        "reviews": []
+      },
+      "_id": 2
+    },
+    {
+      "name": "Trance Party!",
+      "desc": "The best party ever",
+      "imgUrl": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/glow-disco-party-poster-template-2d310ac36d313dfc6fbc11b714f3859f_screen.jpg?ts=1561530801",
+      "fee": "0",
+      "likes": 3,
+      "startDate": "2020-07-17T22:00:00.000+03:00",
+      "endDate": "2020-07-18T14:00:00.000+03:00",
+      "durationHours": 12,
+      "createdAt": 1541652422,
+      "location": {
+        "name": "Israel, Ramat Gan",
+        "lat": 33.55,
+        "lng": 33.77
+      },
+      "extraData": {
+        "musicTypes": [
+          "Trance",
+          "Music",
+          "Techno"
+        ],
+        "partyTypes": [
+          "Karaoke",
+          "Rave",
+          "Sing",
+          "Workshop",
+          "Open Mic",
+          "Live Concert",
+          "Late Night",
+          "Pool"
+        ],
+        "createdBy": {
+          "_id": "u101",
+          "fullName": "Orly Amdadi",
+          "imgUrl": "http://some-img"
+        },
+        "members": [
+          {
+            "_id": "u101",
+            "fullName": "Orly Amdadi",
+            "imgUrl": "http://some-img"
+          },
+          {
+            "_id": "u101",
+            "fullName": "Orly Amdadi",
+            "imgUrl": "http://some-img"
+          }
+        ],
+        "reviews": []
+      },
+      "_id": 3
+    },
+    {
+      "name": "Beach party",
+      "desc": "The best party ever!\nYou will never forget this party!",
+      "imgUrl": "http://res.cloudinary.com/partytime/image/upload/v1595104849/partyImgs/wdasxavk205i55bqrgth.jpg",
+      "fee": "0",
+      "likes": 3,
+      "startDate": "2020-07-17T16:30:00.000+03:00",
+      "endDate": "2020-07-17T17:30:00.000+03:00",
+      "durationHours": 12,
+      "createdAt": 1541652422,
+      "location": {
+        "name": "Israel",
+        "lat": 34.55,
+        "lng": 34.77
+      },
+      "extraData": {
+        "musicTypes": [
+          "Trance",
+          "Music",
+          "Techno"
+        ],
+        "partyTypes": [
+          "Karaoke",
+          "Rave",
+          "Sing",
+          "Workshop"
+        ],
+        "createdBy": {
+          "_id": "u101",
+          "fullName": "Orly Amdadi",
+          "imgUrl": "http://some-img"
+        },
+        "members": [
+          {
+            "_id": "u101",
+            "fullName": "Orly Amdadi",
+            "imgUrl": "http://some-img"
+          },
+          {
+            "_id": "u101",
+            "fullName": "Orly Amdadi",
+            "imgUrl": "http://some-img"
+          }
+        ],
+        "reviews": []
+      },
+      "_id": 4
+    },
+    {
+      "name": "Beach Hangout",
+      "desc": "",
+      "imgUrl": "http://res.cloudinary.com/partytime/image/upload/v1594996604/partyImgs/bqqumghixzt0cvgflful.jpg",
+      "fee": "0",
+      "likes": 3,
+      "startDate": "2020-07-17T20:30:00.000+03:00",
+      "endDate": "2020-07-18T12:30:00.000+03:00",
+      "durationHours": 12,
+      "createdAt": 1541652422,
+      "location": {
+        "name": "Israel",
+        "lat": 33.55,
+        "lng": 35.77
+      },
+      "extraData": {
+        "musicTypes": [
+          "Trance",
+          "Music",
+          "Techno"
+        ],
+        "partyTypes": [
+          "Karaoke",
+          "Rave",
+          "Sing",
+          "Workshop"
+        ],
+        "createdBy": {
+          "_id": "u101",
+          "fullName": "Orly Amdadi",
+          "imgUrl": "http://some-img"
+        },
+        "members": [
+          {
+            "_id": "u101",
+            "fullName": "Orly Amdadi",
+            "imgUrl": "http://some-img"
+          },
+          {
+            "_id": "u101",
+            "fullName": "Orly Amdadi",
+            "imgUrl": "http://some-img"
+          }
+        ],
+        "reviews": []
+      },
+      "_id": 5
+    },
+    {
+      "name": "party at azriely",
+      "desc": "a good party tonight",
+      "imgUrl": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/glow-disco-party-poster-template-2d310ac36d313dfc6fbc11b714f3859f_screen.jpg?ts=1561530801",
+      "fee": "222",
+      "likes": 0,
+      "startDate": "2020-07-23T00:00:00.000+03:00",
+      "endDate": "2020-07-19T00:00:00.000+03:00",
+      "durationHours": 0,
+      "createdAt": 0,
+      "location": {
+        "name": "tel aviv",
+        "lat": 32.0852999,
+        "lng": 34.78176759999999
+      },
+      "extraData": {
+        "musicTypes": [
+          "Folk",
+          "Jazz"
+        ],
+        "partyTypes": [
+          "Fetsival",
+          "Ecstatic Dance"
+        ],
+        "createdBy": {
+          "_id": "",
+          "fullName": "",
+          "imgUrl": ""
+        },
+        "members": [
+          {
+            "_id": "",
+            "fullName": "",
+            "imgUrl": ""
+          },
+          {
+            "_id": "",
+            "fullName": "",
+            "imgUrl": ""
+          }
+        ],
+        "reviews": []
+      },
+      "_id": 6
+    },
+    {
+      "name": "cacsdcdssd",
+      "desc": "cxcxczcxcx",
+      "imgUrl": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/glow-disco-party-poster-template-2d310ac36d313dfc6fbc11b714f3859f_screen.jpg?ts=1561530801",
+      "fee": "111",
+      "likes": 0,
+      "startDate": "2020-07-24T00:30:00.000+03:00",
+      "endDate": "2020-07-19T00:30:00.000+03:00",
+      "durationHours": 0,
+      "createdAt": 0,
+      "location": {
+        "name": "eilat israel",
+        "lat": 29.557669,
+        "lng": 34.951925
+      },
+      "extraData": {
+        "musicTypes": [
+          "Metal",
+          "Latin",
+          "Jazz"
+        ],
+        "partyTypes": [
+          "Beach Party",
+          "Ecstatic Dance"
+        ],
+        "createdBy": {
+          "_id": "",
+          "fullName": "",
+          "imgUrl": ""
+        },
+        "members": [
+          {
+            "_id": "",
+            "fullName": "",
+            "imgUrl": ""
+          },
+          {
+            "_id": "",
+            "fullName": "",
+            "imgUrl": ""
+          }
+        ],
+        "reviews": []
+      },
+      "_id": 7
+    },
+    {
+      "name": "shais party now bla",
+      "desc": "test ",
+      "imgUrl": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/glow-disco-party-poster-template-2d310ac36d313dfc6fbc11b714f3859f_screen.jpg?ts=1561530801",
+      "fee": "111",
+      "likes": 0,
+      "startDate": "2020-07-16T00:45:00.000+03:00",
+      "endDate": "2020-08-01T00:45:00.000+03:00",
+      "durationHours": 0,
+      "createdAt": 0,
+      "location": {
+        "name": "Haifa israel",
+        "lat": 32.7940463,
+        "lng": 34.989571
+      },
+      "extraData": {
+        "musicTypes": [
+          "Drum & Electrtonic",
+          "Latin"
+        ],
+        "partyTypes": [
+          "Beach Party",
+          "Fetsival"
+        ],
+        "createdBy": {
+          "_id": "",
+          "fullName": "",
+          "imgUrl": ""
+        },
+        "members": [
+          {
+            "_id": "",
+            "fullName": "",
+            "imgUrl": ""
+          },
+          {
+            "_id": "",
+            "fullName": "",
+            "imgUrl": ""
+          }
+        ],
+        "reviews": []
+      },
+      "_id": 8
+    }
+  ],
+  "user": [
+    {
+      "_id": "u101",
+      "fullName": "Orly Amdadi",
+      "userName": "user1",
+      "password": "1234",
+      "isAdmin": true,
+      "imgUrl": "https://www.kindpng.com/picc/m/24-248729_stockvader-predicted-adig-user-profile-image-png-transparent.png",
+      "location": {
+        "name": "Paris",
+        "lat": 31.55,
+        "lng": 33.77
+      }
+    },
+    {
+      "_id": "u102",
+      "fullName": "dani Amdadi",
+      "userName": "user2",
+      "password": "1235",
+      "isAdmin": true,
+      "imgUrl": "https://www.kindpng.com/picc/m/24-248729_stockvader-predicted-adig-user-profile-image-png-transparent.png",
+      "location": {
+        "name": "Paris",
+        "lat": 31.55,
+        "lng": 33.77
+      }
+    }
+  ]
+}

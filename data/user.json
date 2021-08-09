@@ -1,0 +1,66 @@
+[
+  {
+    "userName": "momi",
+    "password": "1234",
+    "fullName": "Shay Elbaz",
+    "isAdmin": false,
+    "_id": "y4dUa"
+  },
+  {
+    "userName": "momi",
+    "password": "1234",
+    "fullName": "Shay Elbaz",
+    "isAdmin": false,
+    "_id": "w1Uh8"
+  },
+  {
+    "userName": "momi",
+    "password": "1234",
+    "fullName": "Shay Elbaz",
+    "isAdmin": true,
+    "_id": "V49ak"
+  },
+  {
+    "userName": "Shay",
+    "password": "12345",
+    "_id": "aki5j"
+  },
+  {
+    "userName": "momo",
+    "password": "1234",
+    "_id": "6ErdT"
+  },
+  {
+    "userName": "momo",
+    "password": "momo21",
+    "_id": "CIgKh"
+  },
+  {
+    "userName": "momo",
+    "password": "momo1",
+    "_id": "OKiJ4"
+  },
+  {
+    "userName": "momo",
+    "password": "momo",
+    "fullName": "Momo Bepita",
+    "isAdmin": true,
+    "_id": "dUe08"
+  },
+  {
+    "_id": "u101",
+    "fullName": "Davik Mohen",
+    "userName": "davik",
+    "password": "1234",
+    "score": 90,
+    "isAdmin": true
+  },
+  {
+    "_id": "u102",
+    "fullName": "Dumu Lemi",
+    "userName": "dumu",
+    "password": "2345",
+    "score": 60,
+    "isAdmin": false
+  }
+]
